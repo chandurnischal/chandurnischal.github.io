@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 20px;
+}
+
+ul {
+    list-style: none;
+}
+
+.headings {
+    text-align: left;
+    font-weight: bold;
+    vertical-align: top;
+}
+
+.sub-list {
+    list-style: disc;
+}
+
+.sub-text {
+    font-size: 15px;
+    font-style: italic;
+}
+
+@media print {
+    #printPageButton{
+        display: none;
+    }
+}
