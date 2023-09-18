@@ -1,5 +1,6 @@
-### HI
+### Hi
+
 # I am Nischal
 
-[Resume](chandurnischal.github.io/resume)
-[CV](chandurnischal.github.io/cv)
+- ### [Resume](https://chandurnischal.github.io/resume/)
+- ### [Curriculum Vitae (CV)](https://chandurnischal.github.io/cv/)
