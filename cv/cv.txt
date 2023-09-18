@@ -1,0 +1,87 @@
+[Your Name]
+[Your Address]
+[City, State, ZIP Code]
+[Your Phone Number]
+[Your Email Address]
+[LinkedIn Profile (Optional)]
+[GitHub Profile (Optional)]
+
+Objective:
+------------
+[Include a brief statement about your career objective or what you aim to achieve as a data scientist.]
+
+Education:
+------------
+[Start with your most recent education and work backward.]
+
+[Degree Earned] in [Your Major]
+[University Name], [City, State]
+[Month Year of Graduation]
+[Honors/Awards (if any)]
+
+[Relevant Coursework (if applicable)]
+
+
+Experience:
+------------
+[Start with your most recent work experience and work backward.]
+
+[Job Title]
+[Company Name], [City, State]
+[Month Year Started] - [Month Year Ended or Present]
+
+- [Bullet point describing your key responsibilities and achievements in this role.]
+- [Include quantifiable results where possible, such as improved efficiency, cost savings, or project outcomes.]
+
+[Job Title]
+[Company Name], [City, State]
+[Month Year Started] - [Month Year Ended or Present]
+
+- [Bullet point describing your key responsibilities and achievements in this role.]
+- [Include quantifiable results where possible, such as improved efficiency, cost savings, or project outcomes.]
+
+Skills:
+------------
+[Include a list of your technical and soft skills relevant to data science. Separate them into categories if needed.]
+
+Technical Skills:
+- Data Analysis and Visualization: [e.g., Python, R, Tableau]
+- Machine Learning: [e.g., scikit-learn, TensorFlow, Keras]
+- Data Wrangling: [e.g., Pandas, NumPy]
+- Database Management: [e.g., SQL, MongoDB]
+- Big Data Technologies: [e.g., Hadoop, Spark]
+- Data Cleaning and Preprocessing
+- Statistical Analysis
+
+Soft Skills:
+- Problem Solving
+- Communication
+- Team Collaboration
+- Project Management
+- Time Management
+
+Certifications:
+------------
+[If you have any relevant certifications, list them here.]
+
+- [Certification Name]
+- [Certifying Organization]
+- [Month Year Earned]
+
+- [Certification Name]
+- [Certifying Organization]
+- [Month Year Earned]
+
+Projects:
+------------
+[Highlight a few of your most significant data science projects. Include project names, descriptions, your role, and the tools or technologies you used.]
+
+Project 1: [Project Name]
+- Description: [Brief project description]
+- Role: [Your role in the project]
+- Tools/Technologies: [e.g., Python, Jupyter, scikit-learn]
+
+Project 2: [Project Name]
+- Description: [Brief project description]
+- Role: [Your role in the project]
+- Tools/Technologies: [e.g., R, Tableau]
